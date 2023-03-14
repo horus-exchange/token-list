@@ -1,0 +1,16 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/gen.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.6.2",
+    "csv-parse": "^4.15.4"
+  }
+}

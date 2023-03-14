@@ -1,0 +1,50 @@
+{
+  "name": "Horus Exchange Default List",
+  "timestamp": "",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "horus",
+    "default",
+    "coreDAO"
+  ],
+  "tokens": [
+    {
+      "name": "CORE",
+      "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+      "symbol": "CORE",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/horus-exchange/token-list/master/data/CORE/logo.png"
+    },
+    {
+      "name": "Horus Exchange Token",
+      "address": "0x2Bd6CF37336F92bDC34F432E91BE944E13399C33",
+      "symbol": "HORUS",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/horus-exchange/token-list/master/data/HORUS/logo.png"
+    },
+    {
+      "name": "Tether",
+      "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/horus-exchange/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "name": "Wrapped CORE",
+      "address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
+      "symbol": "WCORE",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/horus-exchange/token-list/master/data/WCORE/logo.png"
+    }
+  ]
+}

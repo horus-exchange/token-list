@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "tokens": [
+    {
+      "network": "Core",
+      "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
+      "name": "Tether",
+      "symbol": "USDT"
+    }
+  ]
+}

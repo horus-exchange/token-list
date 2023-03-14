@@ -1,0 +1,12 @@
+{
+  "name": "Wrapped CORE",
+  "symbol": "WCORE",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Core",
+      "address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
+      "native": false
+    }
+  ]
+}
