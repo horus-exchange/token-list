@@ -15,6 +15,14 @@
   ],
   "tokens": [
     {
+      "name": "CORE",
+      "address": "CORE",
+      "symbol": "CORE",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/horus-exchange/token-list/master/data/CORE/logo.png"
+    },
+    {
       "name": "Horus Exchange Token",
       "address": "0xBA4968a11df17Ca668bBA54E4561B8C39A7D0d60",
       "symbol": "HORUS",
