@@ -1,0 +1,12 @@
+{
+  "name": "CORE",
+  "symbol": "CORE",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Core",
+      "address": "CORE",
+      "native": true
+    }
+  ]
+}
