@@ -24,7 +24,7 @@
     },
     {
       "name": "Horus Exchange Token",
-      "address": "0x2Bd6CF37336F92bDC34F432E91BE944E13399C33",
+      "address": "0xBA4968a11df17Ca668bBA54E4561B8C39A7D0d60",
       "symbol": "HORUS",
       "decimals": 18,
       "chainId": 1116,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Tether",
-      "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
+      "address": "0x525e98CAE627CF77a7fC5717c34f87979F972f77",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1116,
